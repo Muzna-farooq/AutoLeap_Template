@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fautoleap.com%2F&psig=AOvVaw1FjyfleWlUOshjRWglMBrj&ust=1673970979441000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD9sYG6zPwCFQAAAAAdAAAAABAD)
 
 
 # Auto Leap
