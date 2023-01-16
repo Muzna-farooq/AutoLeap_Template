@@ -1,4 +1,4 @@
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fautoleap.com%2F&psig=AOvVaw1FjyfleWlUOshjRWglMBrj&ust=1673970979441000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD9sYG6zPwCFQAAAAAdAAAAABAD)
+![Logo](https://autoleap.com/wp-content/uploads/2022/11/AutoLeap-Logo-Gray-Green.svg)
 
 
 # Auto Leap
